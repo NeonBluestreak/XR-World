@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/XR World.unity
+    path: Assets/Scenes/AR Sword Room.unity
     guid: f130d0ea6670b8b4bb24ff783adf4f6a
   - enabled: 1
     path: Assets/Scenes/VR World.unity
