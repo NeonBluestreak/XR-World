@@ -1,4 +1,4 @@
-using Meta.XR.Editor.Tags;
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -10,7 +10,7 @@ public class AttackerRobotScript : MonoBehaviour
 
     public float health = 4;
     public Collider collider;
-    public Tag swordTag;
+    public string swordTag;
     public GameObject sword;
 
     // Start is called before the first frame update
